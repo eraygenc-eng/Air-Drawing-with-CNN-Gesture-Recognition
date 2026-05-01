@@ -191,6 +191,6 @@ Air-Drawing-with-CNN-Gesture-Recognition/
 │   └── hand_gesture_cnn.pth
 │
 └── screenshots/
-│       ├── drawing.png
-│       ├── eraser.png
-│       ├── open_palm.png
+       ├── drawing.png
+       ├── eraser.png
+       ├── open_palm.png

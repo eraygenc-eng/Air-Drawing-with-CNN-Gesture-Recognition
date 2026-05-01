@@ -114,8 +114,7 @@ The dataset was collected in a controlled environment using the same camera setu
 
 Because most images were captured under similar conditions, the model may sometimes make incorrect predictions when the lighting, background, camera angle, or hand position changes significantly.
 
-```
-```
+
 ## Installation and Running on Another Computer
 
 Follow these steps to download and run the project on another computer.

@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Optional large outputs
+runs/
+outputs/
+logs/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# PyTorch checkpoints except final included model
+*.pt
+*.ckpt
+
+# Keep the main trained model if you want the app to run directly after clone
+!models/hand_gesture_cnn.pth

@@ -103,8 +103,6 @@ idle
 index_finger
 open_palm
 thumb_only
-
-
 ```
 ### 4. DATASET
 
